@@ -1,5 +1,5 @@
 # KNearestNeighbour
-
+<p> By Max Walker</p>
 <p>
 This is a genteric implementation of the K Nearest Neighbors classification machine learning algorithm.
 </p>
