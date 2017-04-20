@@ -1,7 +1,7 @@
 # KNearestNeighbour
 <p> By Max Walker</p>
 <p>
-This is a genteric implementation of the K Nearest Neighbors classification machine learning algorithm.
+This is a generic implementation of the K Nearest Neighbors classification machine learning algorithm.
 </p>
 <p><b> Program input </b><p>
   <ul>
